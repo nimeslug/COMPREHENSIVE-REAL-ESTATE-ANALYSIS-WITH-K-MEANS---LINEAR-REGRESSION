@@ -1,4 +1,4 @@
-# COMPREHENSIVE REAL ESTATE ANALYSIS WITH K-MEANS & LINEAR REGRESSION
+# COMPREHENSIVE REAL ESTATE ANALYSIS
 
 This project presents a complete data mining workflow applied to real estate data. It combines unsupervised learning (K-Means clustering) and supervised learning (Linear Regression), along with essential preprocessing and visualization steps. The aim is to explore data patterns, segment properties, and predict housing prices.
 
